@@ -9,3 +9,5 @@
   - [https://dl.acm.org/doi/10.1007/978-3-031-56060-6_24]
 - **Large Language Models as Data Augmenters for Cold-Start Item Recommendation**
   - [https://dl.acm.org/doi/10.1145/3589335.3651532]
+- **Large Language Model Simulator for Cold-Start Recommendation**
+  - [https://dl.acm.org/doi/10.1145/3701551.3703546]
