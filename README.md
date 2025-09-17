@@ -11,3 +11,5 @@
   - [https://dl.acm.org/doi/10.1145/3589335.3651532]
 - **Large Language Model Simulator for Cold-Start Recommendation**
   - [https://dl.acm.org/doi/10.1145/3701551.3703546]
+- **Using Large Language Models (LLMs) to address the cold start problem in machine learning training data for E-commerce product listing generation**
+  - [https://doi.org/10.30574/wjarr.2023.20.1.2196]
