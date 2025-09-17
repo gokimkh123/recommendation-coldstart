@@ -17,3 +17,5 @@
   - [https://dl.acm.org/doi/10.1145/3604915.3610646]
 - **Large Language Models as Zero-Shot Conversational Recommenders**
   - [https://doi.org/10.1145/3583780.3614949]
+- **TALLRec: An Effective and Efficient Tuning Framework to Align Large Language Model with Recommendation**
+  - [https://doi.org/10.1145/3604915.360885]
