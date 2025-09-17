@@ -19,3 +19,5 @@
   - [https://doi.org/10.1145/3583780.3614949]
 - **TALLRec: An Effective and Efficient Tuning Framework to Align Large Language Model with Recommendation**
   - [https://doi.org/10.1145/3604915.360885]
+- **Leveraging multimodal large language model for multimodal sequential recommendation**
+  - [https://doi.org/10.1038/s41598-025-14251-1]
