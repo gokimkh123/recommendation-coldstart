@@ -12,4 +12,4 @@
 - **Large Language Model Simulator for Cold-Start Recommendation**
   - [https://dl.acm.org/doi/10.1145/3701551.3703546]
 - **Keyword-driven Retrieval-Augmented Large Language Models for Cold-start User Recommendations**
-  - [https://doi.org/10.1145/3701716.371785]
+  - [https://doi.org/10.1145/3701716.3717855]
