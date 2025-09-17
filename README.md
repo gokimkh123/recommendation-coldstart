@@ -21,3 +21,5 @@
   - [https://doi.org/10.1145/3604915.360885]
 - **Leveraging multimodal large language model for multimodal sequential recommendation**
   - [https://doi.org/10.1038/s41598-025-14251-1]
+- **Large Language Models meet Collaborative Filtering: An Efficient All-round LLM-based Recommender System**
+  - [https://doi.org/10.1145/3637528.3671931]
