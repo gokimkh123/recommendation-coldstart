@@ -13,3 +13,7 @@
   - [https://dl.acm.org/doi/10.1145/3701551.3703546]
 - **Keyword-driven Retrieval-Augmented Large Language Models for Cold-start User Recommendations**
   - [https://doi.org/10.1145/3701716.3717855]
+- **Uncovering ChatGPT’s Capabilities in Recommender Systems**
+  - [https://dl.acm.org/doi/10.1145/3604915.3610646]
+ 
+
