@@ -15,5 +15,5 @@
   - [https://doi.org/10.1145/3701716.3717855]
 - **Uncovering ChatGPT’s Capabilities in Recommender Systems**
   - [https://dl.acm.org/doi/10.1145/3604915.3610646]
- 
-
+- **Large Language Models as Zero-Shot Conversational Recommenders**
+  - [https://doi.org/10.1145/3583780.3614949]
