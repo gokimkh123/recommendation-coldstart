@@ -11,7 +11,9 @@
 ## Warm & Cold(User + Item)
   - **Large Language Models meet Collaborative Filtering: An Efficient All-round LLM-based Recommender System**
     - [https://doi.org/10.1145/3637528.3671931]
-
+## System Cold
+  - **LLMTreeRec: Unleashing the Power of Large Language Models for Cold-Start Recommendations**
+    - [https://arxiv.org/abs/2404.00702]
 # ReRanker
   - **Uncovering ChatGPT’s Capabilities in Recommender Systems**
     - [https://dl.acm.org/doi/10.1145/3604915.3610646]
