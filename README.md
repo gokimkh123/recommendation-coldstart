@@ -32,3 +32,7 @@
     - [https://doi.org/10.1038/s41598-025-14251-1]
   - **Rec-GPT4V: Multimodal Recommendation with Large Vision-Language Models**
     - [https://arxiv.org/abs/2402.08670]
+
+# Multimodal
+  - **A Multimodal Single-Branch Embedding Network for Recommendation in Cold-Start and Missing Modality Scenarios**
+    - [https://dl.acm.org/doi/10.1145/3640457.3688138]
