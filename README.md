@@ -36,3 +36,7 @@
 # Multimodal
   - **A Multimodal Single-Branch Embedding Network for Recommendation in Cold-Start and Missing Modality Scenarios**
     - [https://dl.acm.org/doi/10.1145/3640457.3688138]
+
+# Model
+  - **BPR: Bayesian personalized ranking from implicit feedback**
+    - [https://dl.acm.org/doi/10.5555/1795114.1795167]
