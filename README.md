@@ -22,8 +22,7 @@
   - **Large Language Models are Zero-Shot Rankers for Recommender Systems**
     - [https://dl.acm.org/doi/10.1007/978-3-031-56060-6_24]
 
-
-# Multimodal + LLM
+# Recommender System
   - **Large Language Models as Zero-Shot Conversational Recommenders**
     - [https://doi.org/10.1145/3583780.3614949]
   - **TALLRec: An Effective and Efficient Tuning Framework to Align Large Language Model with Recommendation**
@@ -32,11 +31,11 @@
     - [https://doi.org/10.1038/s41598-025-14251-1]
   - **Rec-GPT4V: Multimodal Recommendation with Large Vision-Language Models**
     - [https://arxiv.org/abs/2402.08670]
-
-# Multimodal
   - **A Multimodal Single-Branch Embedding Network for Recommendation in Cold-Start and Missing Modality Scenarios**
     - [https://dl.acm.org/doi/10.1145/3640457.3688138]
-
-# Model
   - **BPR: Bayesian personalized ranking from implicit feedback**
     - [https://dl.acm.org/doi/10.5555/1795114.1795167]
+   
+# Flow Matching
+- **Flow Matching for Generative Modeling**
+    - [https://openreview.net/forum?id=PqvMRDCJT9t]
