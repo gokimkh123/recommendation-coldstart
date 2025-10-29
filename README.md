@@ -39,3 +39,6 @@
 # Flow Matching
 - **Flow Matching for Generative Modeling**
     - [https://openreview.net/forum?id=PqvMRDCJT9t]
+      
+- **Flow Matching for Collaborative Filtering**
+    - [https://dl.acm.org/doi/10.1145/3711896.3736967]
