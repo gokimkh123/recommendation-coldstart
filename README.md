@@ -22,7 +22,7 @@
   - **Large Language Models are Zero-Shot Rankers for Recommender Systems**
     - [https://dl.acm.org/doi/10.1007/978-3-031-56060-6_24]
 
-# Recommender System
+# Recommender System 
   - **Large Language Models as Zero-Shot Conversational Recommenders**
     - [https://doi.org/10.1145/3583780.3614949]
   - **TALLRec: An Effective and Efficient Tuning Framework to Align Large Language Model with Recommendation**
@@ -42,3 +42,7 @@
       
 - **Flow Matching for Collaborative Filtering**
     - [https://dl.acm.org/doi/10.1145/3711896.3736967]
+
+# Diffusion
+- **Diff-MSR: A Diffusion Model Enhanced Paradigm for Cold-Start Multi-Scenario Recommendation**
+    - [https://dl.acm.org/doi/10.1145/3616855.3635807]
