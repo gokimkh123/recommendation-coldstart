@@ -36,7 +36,7 @@
   - **BPR: Bayesian personalized ranking from implicit feedback**
     - [https://dl.acm.org/doi/10.5555/1795114.1795167]
   - **A Comprehensive Review of Recommender Systems: Transitioning from Theory to Practice**
-    - [https://doi.org/10.1016/j.cosrev.2025.100849%20Get%20rights%20and%20content]
+    - [https://doi.org/10.1016/j.cosrev.2025.100849]
   
 # Flow Matching
 - **Flow Matching for Generative Modeling**
