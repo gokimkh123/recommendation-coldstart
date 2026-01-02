@@ -1,5 +1,4 @@
 # Recommender System 
-## Cold-Start
 
 ## Item-Cold
   - **Large Language Models as Data Augmenters for Cold-Start Item Recommendation**
@@ -38,6 +37,8 @@
   - [https://dl.acm.org/doi/10.5555/1795114.1795167]
 - **A Comprehensive Review of Recommender Systems: Transitioning from Theory to Practice**
   - [https://doi.org/10.1016/j.cosrev.2025.100849]
+- **A Multi-modal Modeling Framework for Cold-start Short-video Recommendation**
+  - [https://dl.acm.org/doi/10.1145/3640457.3688098]
   
 # Flow Matching
 - **Flow Matching for Generative Modeling**
