@@ -15,14 +15,14 @@
 ## System Cold
   - **LLMTreeRec: Unleashing the Power of Large Language Models for Cold-Start Recommendations**
     - [https://arxiv.org/abs/2404.00702]
-# ReRanker
+## ReRanker
   - **Uncovering ChatGPT’s Capabilities in Recommender Systems**
     - [https://dl.acm.org/doi/10.1145/3604915.3610646]
   - **Keyword-driven Retrieval-Augmented Large Language Models for Cold-start User Recommendations**
     - [https://doi.org/10.1145/3701716.3717855]
   - **Large Language Models are Zero-Shot Rankers for Recommender Systems**
     - [https://dl.acm.org/doi/10.1007/978-3-031-56060-6_24]
-      
+   
 - **Large Language Models as Zero-Shot Conversational Recommenders**
   - [https://doi.org/10.1145/3583780.3614949]
 - **TALLRec: An Effective and Efficient Tuning Framework to Align Large Language Model with Recommendation**
