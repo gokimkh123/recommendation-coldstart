@@ -5,6 +5,9 @@
     - [https://dl.acm.org/doi/10.1145/3589335.3651532]
   - **Large Language Model Simulator for Cold-Start Recommendation**
     - [https://dl.acm.org/doi/10.1145/3701551.3703546]
+  - **Online Item Cold-Start Recommendation with Popularity-Aware Meta-Learning**
+    - [https://dl.acm.org/doi/10.1145/3690624.3709336]
+      
 ## User-Cold
   - **Large Language Models are Competitive Near Cold-start Recommenders for Language-and Item-based Preferences**
     - [https://dl.acm.org/doi/10.1145/3604915.3608845]
