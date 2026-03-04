@@ -12,9 +12,11 @@
   - **Large Language Models are Competitive Near Cold-start Recommenders for Language-and Item-based Preferences**
     - [https://dl.acm.org/doi/10.1145/3604915.3608845]
 
-## Warm & Cold(User + Item)
+## Cold(User + Item)
   - **Large Language Models meet Collaborative Filtering: An Efficient All-round LLM-based Recommender System**
     - [https://doi.org/10.1145/3637528.3671931]
+  - **Recommendation for New Users and New Items via Randomized Training and Mixture-of-Experts Transformation**
+    - [https://dl.acm.org/doi/10.1145/3397271.3401178]
 ## System Cold
   - **LLMTreeRec: Unleashing the Power of Large Language Models for Cold-Start Recommendations**
     - [https://arxiv.org/abs/2404.00702]
@@ -42,7 +44,10 @@
   - [https://doi.org/10.1016/j.cosrev.2025.100849]
 - **A Multi-modal Modeling Framework for Cold-start Short-video Recommendation**
   - [https://dl.acm.org/doi/10.1145/3640457.3688098]
-
+- **Tag-augmented Dual-target Cross-domain Recommendation**
+  - [https://dl.acm.org/doi/10.1145/3705328.3748067]
+- **Contrastive Text-enhanced Transformer for Cross-Domain Sequential Recommendation**
+  - [https://dl.acm.org/doi/10.1145/3711896.3736893]
 # Flow Matching
 - **Flow Matching for Generative Modeling**
     - [https://openreview.net/forum?id=PqvMRDCJT9t]
