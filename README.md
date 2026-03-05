@@ -48,6 +48,8 @@
   - [https://dl.acm.org/doi/10.1145/3705328.3748067]
 - **Contrastive Text-enhanced Transformer for Cross-Domain Sequential Recommendation**
   - [https://dl.acm.org/doi/10.1145/3711896.3736893]
+- **LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation**
+  - [https://dl.acm.org/doi/10.1145/3397271.3401063]
 # Flow Matching
 - **Flow Matching for Generative Modeling**
     - [https://openreview.net/forum?id=PqvMRDCJT9t]
