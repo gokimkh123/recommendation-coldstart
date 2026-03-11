@@ -62,3 +62,7 @@
 # Diffusion
 - **Diff-MSR: A Diffusion Model Enhanced Paradigm for Cold-Start Multi-Scenario Recommendation**
     - [https://dl.acm.org/doi/10.1145/3616855.3635807]
+ 
+# Contrastive Learning
+- **A Simple Framework for Contrastive Learning of Visual Representations**
+    - [https://arxiv.org/abs/2002.05709]
