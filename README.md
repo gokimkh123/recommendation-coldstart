@@ -33,6 +33,7 @@
 
 | 주제 (Topic) | 논문 제목 | 출판 / 연도 |
 | :--- | :--- | :--- |
+| **Optimization** | • [An overview of gradient descent optimization algorithms](https://arxiv.org/abs/1609.04747) | arXiv 2016 |
 | **Flow Matching** | • [Flow Matching for Generative Modeling](https://openreview.net/forum?id=PqvMRDCJT9t)<br>• [Flow Matching for Collaborative Filtering](https://dl.acm.org/doi/10.1145/3711896.3736967) | ICLR 2023<br><br>KDD 2025 |
 | **Diffusion** | • [Diff-MSR: A Diffusion Model Enhanced Paradigm for Cold-Start Multi-Scenario Recommendation](https://dl.acm.org/doi/10.1145/3616855.3635807) | WSDM 2024 |
 | **Privacy** | • [RecPS: Privacy Risk Scoring for Recommender Systems](https://dl.acm.org/doi/10.1145/3705328.3748052) | RecSys 2025 |
