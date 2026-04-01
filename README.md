@@ -37,4 +37,4 @@
 | **Flow Matching** | • [Flow Matching for Generative Modeling](https://openreview.net/forum?id=PqvMRDCJT9t)<br>• [Flow Matching for Collaborative Filtering](https://dl.acm.org/doi/10.1145/3711896.3736967) | ICLR 2023<br><br>KDD 2025 |
 | **Diffusion** | • [Diff-MSR: A Diffusion Model Enhanced Paradigm for Cold-Start Multi-Scenario Recommendation](https://dl.acm.org/doi/10.1145/3616855.3635807) | WSDM 2024 |
 | **Privacy** | • [RecPS: Privacy Risk Scoring for Recommender Systems](https://dl.acm.org/doi/10.1145/3705328.3748052) | RecSys 2025 |
-| **Contrastive Learning**| • [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709) | ICML 2020 |
+| **Contrastive Learning**| • [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709)<br>• [Toward Universal User Representations: Contrastive Learning with Transformers and Embedding Ensembles](https://doi.org/10.1145/3758126.3758137) | ICML 2020<br><br>RecSys Challenge 2025 |
